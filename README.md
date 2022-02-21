@@ -17,6 +17,7 @@ contents to another file.
 ## References
 
 * Lecture and notes
+* Stack Overflow
 
 ## Build Insructions
 
