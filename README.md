@@ -25,4 +25,4 @@ contents to another file.
 
 ## Execution Instructions
 
-* <code> ./filecpy <inputfile> <outputfile> </code>
+* <code> strace -o strace_output.txt ./filecpy <inputfile> <outputfile> </code>
